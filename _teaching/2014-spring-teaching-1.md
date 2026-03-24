@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant (September 2024 - April 2026) "
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching
 venue: "Concordia University"
 #date: September 2024 - April 2026
