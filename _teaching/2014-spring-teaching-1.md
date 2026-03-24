@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching
 venue: "Concordia University"
-date: September 2024 - April 2026
+#date: September 2024 - April 2026
 location: "Montreal, Canada"
 ---
 
