@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Concordia University"
+date: September 2024 - April 2026
+location: "Montreal, Canada"
 ---
 
-## Teaching Assistant (September 2024 - April 2026)
+<!-- ## Teaching Assistant (September 2024 - April 2026) -->
 
 ### Courses:
 - **COMP 445**: Data Communication and Computer Networks
