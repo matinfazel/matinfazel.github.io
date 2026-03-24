@@ -19,8 +19,8 @@ Prior to his master's, he completed his **Bachelor's** in **Computer Engineering
 
 ## News
 
-- **2026**: Efficient model **ABPN_Plus** qualified at **4K Quantized Image Super-Resolution Challenge** at [**Mobile AI Workshop @ CVPR 2026**](https://www.mobile-ai.org/)
-- **2026**: Model **RFDN_SPAN** qualified and **ranked 7th** at **The Tenth NTIRE 2026 Efficient Super-Resolution Challenge** at [**CVPR 2026 NTIRE Workshop**](https://cvpr2026.thecvf.com/)
+- **2026**: Efficient model **ABPN_Plus** qualified at **4K Quantized Image Super-Resolution Challenge** at [**Mobile AI Workshop @ CVPR 2026**](https://www.codabench.org/competitions/14062/)
+- **2026**: Model **RFDN_SPAN** qualified and **ranked 7th** at **The Tenth NTIRE 2026 Efficient Super-Resolution Challenge** at [**CVPR 2026 NTIRE Workshop**](https://cvlai.net/ntire/2026/)
 - **February 16, 2025**: Paper "**VSR-Bench: An Open-Source Platform for Browser-Native Real-Time VSR Evaluation in WebRTC**" accepted at [**ACM MMSys '26**](https://2026.acmmmsys.org/)
 - **February 14, 2025**: Paper "**More Pixels, Less Bandwidth: A Live Demo of VSR-Bench over WebRTC**" accepted at [**ACM MMSys '26**](https://2026.acmmmsys.org/)
 - **September 02, 2024**: Started **Master's** study at [**Concordia University**](https://www.concordia.ca/) 🎓
