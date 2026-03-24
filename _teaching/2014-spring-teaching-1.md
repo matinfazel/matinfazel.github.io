@@ -1,12 +1,13 @@
 ---
-title: "Teaching Assistant at Concordia University"
+title: "Teaching experience 1"
 collection: teaching
-type: "Teaching Assistant"
-permalink: /teaching/2024-fall-teaching-assistant
-venue: "Concordia University, Computer Science Department"
-date: 2024-09-01
-location: "Montreal, Canada"
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
+
 
 ## Teaching Assistant (September 2024 - April 2026)
 
