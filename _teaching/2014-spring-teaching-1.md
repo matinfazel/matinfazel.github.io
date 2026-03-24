@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant (September 2024 - April 2026) "
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching
