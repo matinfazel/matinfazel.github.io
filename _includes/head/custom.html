@@ -14,4 +14,13 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+{% if page.url == "/" %}
+<style>
+  .page__content a,
+  .page__content a:hover {
+    text-decoration: none;
+  }
+</style>
+{% endif %}
+
 <!-- end custom head snippets -->
