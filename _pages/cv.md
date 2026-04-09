@@ -11,46 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. Computer Science, Concordia University, September 2024 -- April 2026
+* B.Sc. Computer Engineering, Isfahan University of Technology, September 2019 -- February 2024 
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Assistant, Concordia University, September 2024 -- Present
+  * Implemented a browser-based VSR evaluation system using WebRTC with configurable codec parameters and end-to-end network performance instrumentation.
+  * Engineered GPU-accelerated inference pipelines using WebGL/WebGPU and Web Workers for parallel execution in real-time streaming scenarios.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Software Developer, Partak System Vira, February 2022 -- September 2022
+  * Built and maintained an enterprise email monitoring dashboard in NestJS serving 1,000+ active users.
+  * Engineered a C++ CCTV video server supporting real-time streaming for up to 10 concurrent streams.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: C/C++, Python, JavaScript, Node.js
+* AI & ML: PyTorch, TensorFlow.js
+* Multimedia & Systems: WebRTC, FFmpeg, WebGPU
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
@@ -59,6 +42,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
