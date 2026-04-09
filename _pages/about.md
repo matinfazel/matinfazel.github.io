@@ -17,6 +17,11 @@ Beyond research, Matin has industry experience as a **software developer**, wher
 
 Prior to his master's, he completed his **Bachelor's** in **Computer Engineering** at [**Isfahan University of Technology**](https://iut.ac.ir/en), where he also worked on **machine learning** applications such as **speech emotion augmentation** using **generative models**.
 
+## Selected Publications
+
+- [**VSR-Bench: An Open-Source Platform for Browser-Native Real-Time VSR Evaluation in WebRTC**](https://dl.acm.org/doi/10.1145/3793853.3799813), **ACM MMSys 2026**. Introduces the first browser-native benchmarking platform for real-time video super-resolution in WebRTC, enabling controlled evaluation of latency, perceptual quality, and GPU execution trade-offs. [Code](https://github.com/matinfazel/VSR-Bench)
+- [**More Pixels, Less Bandwidth: A Live Demo of VSR-Bench over WebRTC**](https://dl.acm.org/doi/10.1145/3793853.3798197), **ACM MMSys 2026**. Presents a live interactive demo of receiver-side video super-resolution in WebRTC, showing how model choice, runtime configuration, and network conditions affect end-to-end quality of experience.
+
 ## News
 
 <!-- - **April 5, 20262026**: Efficient model **ABPN_Plus** qualified at **4K Quantized Image Super-Resolution Challenge** at [**Mobile AI Workshop @ CVPR 2026**](https://www.codabench.org/competitions/14062/) -->
