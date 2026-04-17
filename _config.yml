@@ -29,6 +29,7 @@ author:
   bio              : "Master's student in Computer Science at Concordia University."
   location         : "Montreal, Canada"
   employer         : "Concordia University"
+  employer_url     : "https://www.concordia.ca/"
   uri              : # URL
   email            : "matinfazel1379@gmail.com" 
 
