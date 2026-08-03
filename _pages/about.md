@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Matin Fazel holds a **Master’s degree** in **Computer Science** from [**Concordia University**](https://www.concordia.ca/) and is a **Researcher – AI** at **Huawei Canada** in Edmonton.
-
-During his graduate studies, he worked as a **Research Assistant** at the In2GM Lab under the supervision of [**Abdelhak Bentaleb**](https://www.concordia.ca/faculty/abdelhak-bentaleb.html). His research focuses on **multimedia systems**, **networking**, and **applied machine learning**, with an emphasis on **real-time video processing**, [**WebRTC**](https://webrtc.org/), **WebGPU**, and **GPU-accelerated inference**.
+Matin Fazel holds a **Master’s degree** in **Computer Science** from [**Concordia University**](https://www.concordia.ca/) and is a **Researcher – AI** at **Huawei Canada** in Edmonton. During his graduate studies, he worked as a **Research Assistant** at the In2GM Lab under the supervision of [**Abdelhak Bentaleb**](https://www.concordia.ca/faculty/abdelhak-bentaleb.html). His research focuses on **multimedia systems**, **networking**, and **applied machine learning**, with an emphasis on **real-time video processing**, [**WebRTC**](https://webrtc.org/), **WebGPU**, and **GPU-accelerated inference**.
 
 He led two research papers at [**ACM MMSys**](https://2026.acmmmsys.org/) and developed browser-based systems for **video super-resolution**, **adaptive streaming**, and **telemetry-driven optimization**. Matin also has industry experience building scalable **backend services**, **monitoring platforms**, and **high-performance video streaming systems**.
 
