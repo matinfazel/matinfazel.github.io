@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Matin Fazel is a **Master's student** in **Computer Science** at [**Concordia University**](https://www.concordia.ca/), based in Montréal, Canada. He is currently a **Research Assistant** at the In2GM Lab, where he works under the supervision of [**Abdelhak Bentaleb**](https://www.concordia.ca/faculty/abdelhak-bentaleb.html). His work sits at the intersection of **multimedia systems**, **networking**, and **applied machine learning**, with a strong focus on **real-time** and **browser-based technologies**.
+Matin Fazel holds a **Master’s degree** in **Computer Science** from [**Concordia University**](https://www.concordia.ca/) and is a **Researcher – AI** at **Huawei Canada** in Edmonton.
 
-During his graduate studies, he has led two research papers at the [**ACM MMSys**](https://2026.acmmmsys.org/) (**rank-A**) conference, while contributing to ongoing research efforts within the lab. His research emphasizes efficient **real-time video processing**, [**WebRTC**](https://webrtc.org/)-based systems, and **GPU-accelerated inference**, particularly in the context of **real-time streaming** and **adaptive multimedia applications**.
+During his graduate studies, he worked as a **Research Assistant** at the In2GM Lab under the supervision of [**Abdelhak Bentaleb**](https://www.concordia.ca/faculty/abdelhak-bentaleb.html). His research focuses on **multimedia systems**, **networking**, and **applied machine learning**, with an emphasis on **real-time video processing**, [**WebRTC**](https://webrtc.org/), **WebGPU**, and **GPU-accelerated inference**.
 
-As part of his work, Matin has designed and developed systems such as a browser-native **video conferencing platform** enhanced with **real-time super-resolution**, as well as **telemetry-driven frameworks** for dynamic system optimization. His projects demonstrate a strong combination of **systems engineering** and **machine learning**, including **large-scale performance instrumentation** and **low-latency GPU pipelines**.
-
-Beyond research, Matin has industry experience as a **software developer**, where he built scalable **backend services** and **real-time multimedia systems**, including an **enterprise monitoring dashboard** and a **high-performance video streaming server**.
+He led two research papers at [**ACM MMSys**](https://2026.acmmmsys.org/) and developed browser-based systems for **video super-resolution**, **adaptive streaming**, and **telemetry-driven optimization**. Matin also has industry experience building scalable **backend services**, **monitoring platforms**, and **high-performance video streaming systems**.
 
 Prior to his master's, he completed his **Bachelor's** in **Computer Engineering** at [**Isfahan University of Technology**](https://iut.ac.ir/en), where he also worked on **machine learning** applications such as **speech emotion augmentation** using **generative models**.
 
@@ -24,7 +22,7 @@ Prior to his master's, he completed his **Bachelor's** in **Computer Engineering
 
 ## News
 
-<!-- - **April 5, 20262026**: Efficient model **ABPN_Plus** qualified at **4K Quantized Image Super-Resolution Challenge** at [**Mobile AI Workshop @ CVPR 2026**](https://www.codabench.org/competitions/14062/) -->
+ - 🥇 **April 5, 20262026**: Efficient model **ABPN_Plus** qualified at **4K Quantized Image Super-Resolution Challenge** at [**Mobile AI Workshop @ CVPR 2026**](https://www.codabench.org/competitions/14062/) 
 - 🏆 **April 7, 2026**: Received the **Best Demo Award** at the **18th ACM Multimedia Systems Conference (MMSys 2026)** for the paper "**More Pixels, Less Bandwidth: A Live Demo of VSR-Bench over WebRTC**"
 - 🥇 **April 3, 2026**: Model **RFDN_SPAN** qualified and **ranked 7th** at [**The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge**](https://arxiv.org/html/2604.03198v1) at [**CVPR 2026 NTIRE Workshop**](https://cvlai.net/ntire/2026/)
 - 📄 **February 16, 2025**: Paper [**VSR-Bench: An Open-Source Platform for Browser-Native Real-Time VSR Evaluation in WebRTC**](https://dl.acm.org/doi/10.1145/3793853.3799813) accepted at [**ACM MMSys '26**](https://2026.acmmmsys.org/)
